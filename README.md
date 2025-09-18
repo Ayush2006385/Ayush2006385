@@ -1,3 +1,4 @@
+![Alt text](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 <h1 align="center">Hi 👋, I'm Ayush R Kumar</h1>
 <h3 align="center">Passionate in Python and mySQL</h3>
 
